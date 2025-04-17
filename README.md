@@ -15,7 +15,6 @@ This Excel dashboard provides an insightful and interactive summary of sales dat
   - Slicers and Drop-down Filters
   - Conditional Formatting
   - Form Controls for navigation
-  - VBA Macros for interactivity (if applicable)
 - Dashboard Design:
   - Custom layout and color theme inspired by Blinkit branding
   - Data visualizations including bar charts, donut charts, and line graphs
