@@ -1,6 +1,6 @@
 # Blinkit Sales Analytics Dashboard - Excel Project
 
-![Dashboard Preview](./fcf07cbc-ec60-4734-b9e6-cd990c4a43b3.png)
+![Dashboard Preview](https://github.com/namansingla05/excel_blinkit_dashboard/blob/main/Blinkit_DashBoard.png)
 
 ## Overview
 
